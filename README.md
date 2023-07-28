@@ -46,6 +46,7 @@ You will need to modify the example gauge code to account for values ranging fro
 Update the chart whenever a new sample is selected.
 
 Weekly Washing Frequency Gauge
+
 <img width="384" alt="gauge" src="https://github.com/Mulugeta25/belly-button-challenge/assets/129996503/0e2b127e-74b1-4a91-9ed6-e52716ad3728">
 
 Deployment
