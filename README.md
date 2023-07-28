@@ -1,5 +1,6 @@
 # belly-button-challenge
 Step 1: Plotly
+
 Use the D3 library to read in samples.json.
 
 Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
@@ -9,6 +10,7 @@ Use sample_values as the values for the bar chart.
 Use otu_ids as the labels for the bar chart.
 
 Use otu_labels as the hovertext for the chart.
+![01](https://github.com/Mulugeta25/belly-button-challenge/assets/129996503/38f2027d-d4dd-46e1-9b4c-814014bc4cb5)
 
 bar Chart
 
