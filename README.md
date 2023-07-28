@@ -52,10 +52,5 @@ Weekly Washing Frequency Gauge
 Deployment
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
 
-Hints
-Use console.log inside of your JavaScript code to see what your data looks like at each step.
-
-Refer to the Plotly.js documentation when building the plots.
-
 About the Data
 Hulcr, J. et al.(2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
